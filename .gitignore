@@ -12,3 +12,11 @@ target/
 # OS
 .DS_Store
 Thumbs.db
+
+# TestNG / Extent output
+test-output/
+allure-results/
+
+# IntelliJ
+.idea/
+*.iml
